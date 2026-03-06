@@ -42,12 +42,11 @@ ul {
 .text1 {
     color: #ff5757;
     font-weight: bold;
-    justify-content: center;
+    text-align: center;
   }
 
 .item {
     display: flex;
-    justify-content: center;
     align-items: center;
     gap: 10px;
   }
@@ -110,3 +109,4 @@ ul {
     text-align: center;
 
 }
+
