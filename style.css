@@ -43,6 +43,7 @@ ul {
     color: #ff5757;
     font-weight: bold;
     text-align: center;
+    justify-content: center;
   }
 
 .item {
@@ -110,6 +111,7 @@ ul {
     text-align: center;
 
 }
+
 
 
 
