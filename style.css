@@ -39,11 +39,38 @@ ul {
 
 
 
+.text1 {
+    color: #ff5757;
+    font-weight: bold;
+    justify-content: center;
+  }
 
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
 
+.item-1 {
+    text-align: center;
+    width: 250px;
+  }
 
+.item-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+  }
 
+.price-tag {
+    color: #ff5757;
+    font-weight: bold;
+  }
 
+  .h1 {
+    text-align: center;
+  }
 
 
 
@@ -81,4 +108,5 @@ ul {
     color: white;
     position: relative;
     text-align: center;
+
 }
